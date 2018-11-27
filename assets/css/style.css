@@ -20,13 +20,13 @@ body {
   }
 
   a:link {
-    color: #777777;
+    color: #ffffff;
     text-decoration: none;
     
 }
 
 a:visited {
- color: #777777;
+ color: #ffffff;
  text-decoration: none;
 }
 
@@ -79,7 +79,7 @@ a:active {
     margin-top: -15px;
     overflow: auto;
     color: #ffffff;
-    background: #ffffff;
+    background: #666666;
     border-bottom: 2px solid #cccccc;
   }
   
@@ -94,7 +94,9 @@ a:active {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    letter-spacing: .2em;
+    background: #666666;
+    margin-right: 10px;
     
   }
   
